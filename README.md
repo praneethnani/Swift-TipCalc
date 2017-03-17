@@ -31,6 +31,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Swift 3 has made changes to the names of classes and it's methods and took some time to figure it out.
+
 ## License
 
     Copyright [2017] [Praneeth Puligundla]
